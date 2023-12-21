@@ -1,2 +1,2 @@
 # krshn-demo
-This is a demo for Git &amp; Githib class
+This is a demo for Git &amp; Githib class.
